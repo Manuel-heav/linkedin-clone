@@ -1,6 +1,6 @@
 import React from 'react'
 import './HeaderOption.css'
-const HeaderOption = ({Icon, title}) => {
+const HeaderOption = ({avatar, Icon, title}) => {
   return (
     <div className="headerOption">
         {Icon && <Icon className="headerOption__icon"/> }
