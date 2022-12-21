@@ -65,3 +65,12 @@
     font-weight: bold;
     color: #0a66c2 !important;
 }
+
+.sidebar__bottom{
+    text-align: left;
+    padding: 10px;
+    border: 1px solid lightgray;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+}
