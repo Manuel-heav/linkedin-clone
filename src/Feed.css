@@ -1,0 +1,9 @@
+.feed{
+    flex: 0.6;
+    margin: 0 20px;
+}
+
+.feed__inputContainer{
+    display: flex;
+    justify-content: space-evenly;   
+}
