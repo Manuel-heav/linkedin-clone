@@ -74,3 +74,31 @@
     border-radius: 10px;
     margin-top: 10px;
 }
+
+.sidebar__recentItem{
+    display: flex;
+    font-size: 13px;
+    color: gray;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.sidebar__recentItem:hover{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    color: black;
+    cursor: pointer;
+}
+
+.sidebar__hash{
+    margin-right: 10px;
+    margin-left: 5px;
+}
+
+.sidebar__bottom > p {
+    font-size: 16px;
+    padding-bottom: 10px;
+    padding: 10px;
+}
